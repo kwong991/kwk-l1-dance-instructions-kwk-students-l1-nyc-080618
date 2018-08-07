@@ -27,18 +27,16 @@ end
   bob_the_reins
   bob_the_reins
   bob_the_reins
-def Lasso
+def lasso
   puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your elbow straight left"
   puts "Lift right arm up and point right elbow diagonally to the right"
   puts "whip it in small circles"
-  lasso
-  Lasso
-  Lasso
-  Lasso
-  Lasso
-  Lasso
-  Lasso
-  Lasso
-  def Lasso
-# Code your methods below
 end
+  lasso
+  lasso
+  lasso
+  lasso
+  lasso
+  lasso
+  
+# Code your methods below
