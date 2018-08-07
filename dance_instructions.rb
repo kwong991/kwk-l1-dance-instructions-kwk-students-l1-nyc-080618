@@ -25,7 +25,7 @@ def lasso
   puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your elbow straight left"
   puts "Lift right arm up and point right elbow diagonally to the right"
   puts "whip it in small circles"
-  puts "Do this eight times"
+  puts "Do this seven times"
 end
 
   
