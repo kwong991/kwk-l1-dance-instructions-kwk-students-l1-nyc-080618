@@ -18,25 +18,15 @@ def bob_the_reins
   puts "Holding your arms out in front of you, straight and at chest level"
   puts "Cross your right wrist over your left and hold them together"
   puts "Lift your arms up and down in a loose bouncing movement, in time with the beat of the song."
+  puts "Do this seven more times"
 end
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
-  bob_the_reins
+ 
 def lasso
   puts "Start arm movement by holding left arm so the back of your wrist is near your chin, pointing your elbow straight left"
   puts "Lift right arm up and point right elbow diagonally to the right"
   puts "whip it in small circles"
+  puts "Do this eight times"
 end
-  lasso
-  lasso
-  lasso
-  lasso
-  lasso
-  lasso
+
   
 # Code your methods below
