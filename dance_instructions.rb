@@ -41,4 +41,5 @@ def gangnam_style
   skip_step("left foot")
   lasso
   bust_a_move
+end
 # Code your methods below
