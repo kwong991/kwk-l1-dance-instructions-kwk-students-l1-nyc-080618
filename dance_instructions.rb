@@ -1,5 +1,6 @@
-def lower_body
+def starting stance
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
+end
 
 def Base_Footwork
   puts "Lift right foot"
