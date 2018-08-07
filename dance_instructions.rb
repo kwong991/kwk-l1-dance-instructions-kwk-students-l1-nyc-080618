@@ -1,4 +1,4 @@
-def starting stance
+def starting_stance
   puts "Plant legs far apart, bend knees slightly and keep posture loose"
 end
 
@@ -33,4 +33,12 @@ def bust_a_move
   puts "Be snazzy ;)"
 end
   
+def gangnam_style
+  starting_stance
+  base_footwork
+  skip_step ("right foot")
+  bob_the_reigns
+  skip_step("left foot")
+  lasso
+  bust_a_move
 # Code your methods below
